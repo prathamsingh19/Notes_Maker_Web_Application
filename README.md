@@ -1,6 +1,6 @@
 # Notes Maker Web Application 📝
 
-Welcome to a **react to-do list app** that lets you add tasks with due dates, track their status, and easily delete them, all with a smooth, intuitive interface. 🌟
+A **Notes Maker** web application for managing notes: **create**, **edit**, **delete**, and organize notes with **tags**. Includes a powerful search feature to quickly find and retrieve your saved notes. 🌟
 
 ## 🚀 Features
 
